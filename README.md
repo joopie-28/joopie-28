@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joopie-28
-- Interested in ecology & Evolution
+- Interested in Ecology & Evolution
 
 <!---
 joopie-28/joopie-28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
